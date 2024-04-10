@@ -1,4 +1,8 @@
-/target
+/target/debug
+/target/release
+/target/.rustc_info.json
+/target/CACHEDIR.tag
+
 /documentation/_autosummary
 /documentation/_build
 out/
